@@ -64,7 +64,7 @@ server {
 
 Не забудьте сделать симлинк на вашу конфигурацию и перезапутите nginx:
 ```
-$ ln -s /etc/nginx/sites-available/yii2test1 /etc/nginx/sites-available/
+$ ln -s /etc/nginx/sites-available/yii2test1 /etc/nginx/sites-enabled/
 $ /etc/init.d/nginx restart
 ```
 
