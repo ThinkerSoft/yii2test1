@@ -11,7 +11,7 @@
 Откройте консоль и выполните следующие команды.
 
 ```
-$ git clone https://github.com/chrisleekr/yii2-angular2-boilerplate.git
+$ git clone https://github.com/ThinkerSoft/yii2test1.git
 $ cd yii2test1 
 $ cd backend
 $ composer install
